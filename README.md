@@ -11,6 +11,12 @@
 
 Here you can easily get the Signle and Multi Column Data Delete Code using ajax . We all know Ajax helps us to operate all the function witout loading the page.
 
+## Installation 
+->Download the file using Zip.
+->Configure the .env file
+->migrate the Database
+->update the conposer to get all the vendor.
+
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
